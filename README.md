@@ -23,5 +23,7 @@ Me chamo Artur da Silva Rezende, sou graduado em Análise e Desenvolvimento de S
  <hr>
           
 ####  📈 Github Status
+<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturdaSilvaRezende&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturdaSilvaRezende&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
