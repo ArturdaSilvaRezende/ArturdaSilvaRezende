@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/ArturdaSilvaRezende/ArturdaSilvaRezende/blob/master/artur-name-gif.gif" />
 
 #### 🔭 Resumo de Carreira
 → Sou um Desenvolvedor Front-end Júnior buscando atualmente uma posição no mercado, na qual eu possa crescer profissionalmente é contribuir com meu conhecimento para o crescimento da empresa. 
