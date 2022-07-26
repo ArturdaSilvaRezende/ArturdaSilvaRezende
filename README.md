@@ -5,7 +5,7 @@
 </br>
 → Apesar de não ter experiência de mercado, eu acredito que, com o conhecimento que possuo agora, eu possa está ajudando as empresas a resolver seus problemas. 
 </br>
-→ Eu possuo um portfólio que pode ser acessado pelo link na descrição do meu perfil, em cada projeto, eu tento ao máximo tornar a experiência do usuário o mais agradável possível.
+→ Eu possuo um site que pode ser acessado pelo link na descrição do meu perfil, onde possui informações mais detalhadas sobre mim, minhas skills e portfólio, além de informações de contato e redes sociais.
 
 <hr>
 
@@ -24,10 +24,3 @@ Me chamo Artur da Silva Rezende, sou graduado em Análise e Desenvolvimento de S
           
 ####  📈 Github Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturdaSilvaRezende&show_icons=true&theme=github_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturdaSilvaRezende&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
- <hr>
- 
- ####  🔗 Informações Adicionais
-→ Para saber mais sobre mim, minhas hard skills, portfólio, você pode clicar no link da bio. 
-
-
