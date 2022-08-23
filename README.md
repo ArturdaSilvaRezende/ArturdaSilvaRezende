@@ -10,7 +10,7 @@
 <hr>
 
 #### 💬 Sobre Mim
-Me chamo Artur da Silva Rezende, sou graduado em Análise e Desenvolvimento de Sistemas, meu primeiro contato com o Front-end aconteceu no terceiro período, a partir disso o meu interesse por essa área foi crescendo a cada tópico estudo, até que por fim eu decidi começar minha carreira pelo Front-end. Com o término do curso, eu decidi-me aprofundar na área antes de me aventurar no mercado de trabalho, o que conseqüentemente me possibilitou aprender novas tecnologias na qual infelizmente não faziam parte da grade da faculdade. Na medida possível, eu estou sempre buscando mais conhecimento e técnicas para melhorar minhas habilidades, e o meu principal objetivo para o futuro e me tornar um Dev Fullstack.
+Me chamo Artur da Silva Rezende, sou graduado em Análise e Desenvolvimento de Sistemas, meu primeiro contato com o Front-end aconteceu no terceiro período, a partir disso o meu interesse por essa área foi crescendo a cada tópico estudo, até que por fim eu decidi começar minha carreira pelo Front-end. 
 
 <hr>
 
