@@ -1,16 +1,16 @@
 <img src="https://github.com/ArturdaSilvaRezende/ArturdaSilvaRezende/blob/master/artur-name-gif.gif" />
 
 #### 🔭 Resumo de Carreira
-→ Sou um Desenvolvedor Front-end Júnior buscando atualmente uma posição no mercado, na qual eu possa crescer profissionalmente é contribuir com meu conhecimento para o crescimento da empresa. 
+→ Sou um Desenvolvedor Front-end Júnior, ainda não tive a oportunidade de trabalhar na área.
 </br>
-→ Apesar de não ter experiência de mercado, eu acredito que, com o conhecimento que possuo agora, eu possa está ajudando as empresas a resolver seus problemas. 
+→ Atualmente eu estou buscando por um time onde eu possa agregar e também aprender, e assim poder crescer profissionalmente e, em contrapartida, contribuir para o crescimento da empresa.
 </br>
-→ Eu possuo um site que pode ser acessado pelo link na descrição do meu perfil, onde possui informações mais detalhadas sobre mim, minhas skills e portfólio, além de informações de contato e redes sociais.
+→ Eu possuo um site que pode ser acessado pelo link na descrição do meu perfil, onde possui informações mais detalhadas sobre mim, minhas habilidades e portfólio, além de informações de contato e redes sociais.
 
 <hr>
 
 #### 💬 Sobre Mim
-Me chamo Artur da Silva Rezende, sou graduado em Análise e Desenvolvimento de Sistemas, meu primeiro contato com o Front-end aconteceu no terceiro período, a partir disso o meu interesse por essa área foi crescendo a cada tópico estudo, até que por fim eu decidi começar minha carreira pelo Front-end. 
+Sou graduado em Análise e Desenvolvimento de Sistemas, optei por iniciar minha carreira como desenvolvedor front-end, pois foi uma área que eu acabei tomando gosto ainda na faculdade, e no nosso TCC, foi de responsabilidade minha, criar a parte visual da nossa aplicação.
 
 <hr>
 
