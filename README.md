@@ -10,7 +10,7 @@
 <hr>
 
 #### 💬 Sobre Mim
-Sou graduado em Análise e Desenvolvimento de Sistemas, optei por iniciar minha carreira como desenvolvedor front-end, pois foi uma área que eu acabei tomando gosto ainda na faculdade, e no nosso TCC, foi de responsabilidade minha, desenvolver a parte visual da nossa aplicação (com base em um design criado por outro integrante do nosso grupo) .
+Sou graduado em Análise e Desenvolvimento de Sistemas, optei por iniciar minha carreira como desenvolvedor front-end, pois foi uma área que eu acabei tomando gosto ainda na faculdade, e no nosso TCC, foi de responsabilidade minha, desenvolver a parte visual da nossa aplicação.
 
 <hr>
 
