@@ -18,6 +18,7 @@ Sou graduado em Análise e Desenvolvimento de Sistemas, optei por iniciar minha 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" heigth="50" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" heigth="50" />
+<img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" width="50" heigth="50" />
 <div />
   
  <hr>
