@@ -8,8 +8,9 @@
 <hr>
 
 #### 💬 Sobre Mim
-- Sou graduado em Análise e Desenvolvimento de Sistemas, optei por iniciar minha carreira como desenvolvedor front-end, pois foi uma área que eu acabei tomando gosto ainda na faculdade, e no nosso TCC, foi de responsabilidade minha, desenvolver a parte visual da nossa aplicação.
-- Eu possuo um site que pode ser acessado pelo link na descrição do meu perfil, onde possui informações mais detalhadas sobre mim, minhas habilidades e portfólio, além de informações de contato e redes sociais.
+Sou graduado em Análise e Desenvolvimento de Sistemas, optei por iniciar minha carreira como desenvolvedor front-end, pois foi uma área que eu acabei tomando gosto ainda na faculdade, e no nosso TCC, foi de responsabilidade minha, desenvolver a parte visual da nossa aplicação.
+</br>
+Eu possuo um site que pode ser acessado pelo link na descrição do meu perfil, onde possui informações mais detalhadas sobre mim, minhas habilidades e portfólio, além de informações de contato e redes sociais.
 
 <hr>
 
