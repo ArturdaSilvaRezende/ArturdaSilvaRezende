@@ -1,4 +1,4 @@
-<img src="https://github.com/ArturdaSilvaRezende/ArturdaSilvaRezende/blob/master/artur-name-gif.gif" />
+<img src="https://github.com/ArturdaSilvaRezende/ArturdaSilvaRezende/blob/master/Artur.gif" />
 
 #### 🔭 Resumo de Carreira
 → Sou um Desenvolvedor Front-end Júnior, ainda não tive a oportunidade de trabalhar na área, porém, afim de colocar em prática o conhecimento que eu adquiri, eu construi vários projetos contidos aqui, o que me possibilitou obter experiência em vários aspectos, como por exemplo, consumo de API, criação de sites responsivos, criação de SPA, entre outros.
