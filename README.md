@@ -14,6 +14,12 @@ Sou graduado em Análise e Desenvolvimento de Sistemas, optei por iniciar minha 
 
 <hr>
 
+#### 📰 Currículo
+
+- Currículo - [Google Drive]([https://artur-silva-rezende.netlify.app](https://drive.google.com/file/d/1fT65uGtFAhtuHxFen7BYV547_ao27x_Q/view?usp=share_link))
+
+<hr>
+
 ####  🌱 O que eu estou estudando atualmente
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" heigth="50" /> 
