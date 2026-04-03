@@ -52,8 +52,3 @@ Após consolidar minha experiência no Front-end, estou aprimorando minhas habil
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL" />
 </div>
-  
- <hr>
-          
-####  📈 Github Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturdaSilvaRezende&show_icons=true&theme=github_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturdaSilvaRezende&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
