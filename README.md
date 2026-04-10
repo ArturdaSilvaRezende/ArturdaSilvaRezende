@@ -1,4 +1,4 @@
- <img src="https://github.com/ArturdaSilvaRezende/ArturdaSilvaRezende/blob/master/Artur.png" width="900"/>
+ <img src="https://github.com/ArturdaSilvaRezende/ArturdaSilvaRezende/blob/master/banner.png" width="900"/>
 
 #### 🔭 Resumo de Carreira
 
