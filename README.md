@@ -6,10 +6,13 @@ Desenvolvedor Front-End com quase 2 anos de experiência de mercado, focado na c
 
 Atualmente, minha stack principal envolve React.js, Next.js e TypeScript, com forte ênfase em semântica e acessibilidade para garantir que a web seja para todos.
 
-Por que me contratar?
-* **Código Limpo:** Foco em componentes reutilizáveis e manutenção simplificada.
-* **Visão de Produto:** Entendo que a tecnologia deve servir aos objetivos da empresa e à experiência do usuário (UX).
-* **Autonomia e Evolução:** Experiência comprovada em ambientes profissionais, lidando com prazos e entregas de alto valor.
+#### Por que me contratar?
+
+* ✨ **Desenvolvimento Assistido por IA:** Utilizo estrategicamente ferramentas como **GitHub Copilot, Cursor e v0.dev**, integradas a LLMs (**Claude, Gemini, ChatGPT**), para acelerar o ciclo de entrega, refatoração de código e análise de performance, mantendo sempre o rigor técnico.
+* 🧹 **Código Limpo:** Foco em componentes reutilizáveis, semântica e manutenção simplificada, aplicando padrões modernos de arquitetura no ecossistema **React/Next.js**.
+* 🎯 **Visão de Produto:** Entendo que a tecnologia deve servir aos objetivos da empresa e à experiência do usuário (UX), priorizando acessibilidade (**A11y**) e performance.
+* 🚀 **Autonomia e Evolução:** Experiência comprovada em ambientes profissionais, lidando com fluxos complexos, prazos e entregas de alto valor.
+  
 
 <hr>
 
